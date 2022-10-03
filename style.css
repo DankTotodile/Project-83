@@ -1,0 +1,34 @@
+#myCanvas
+{
+    border-style: ridge;
+    border-width: 10px;
+    border-color: lightblue;
+    background-color: white;
+}
+body
+{
+    background-image: url("https://th.bing.com/th/id/OIP.x5KH0sGGPJX61vE7U3ZOrwHaFF?pid=ImgDet&rs=1");
+    background-size: cover;
+}
+h1, h2, h3, h4, h5, h6
+{
+    color: white;
+    font-family: "Brush Script MT";
+    font-size: 40px;
+}
+input
+{
+    width: 60px;
+    height: 30px;
+    display: inline-block;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+   
+}
+h6
+{
+    display: inline-block;
+    font-size: 30px;
+    margin-left: 50px;
+}
